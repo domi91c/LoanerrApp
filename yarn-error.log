@@ -1,14 +1,14 @@
 Arguments: 
-  /Users/domi91c/.nvm/versions/node/v7.1.0/bin/node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js check --integrity
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js check --integrity
 
 PATH: 
-  /Users/domi91c/.rvm/gems/ruby-2.4.2@loanerr/bin:/Users/domi91c/.rvm/gems/ruby-2.4.2@global/bin:/Users/domi91c/.rvm/rubies/ruby-2.4.2/bin:/Users/domi91c/.rvm/bin:/Users/domi91c/.nvm/versions/node/v7.1.0/bin:/usr/local/opt/qt@5.5/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/domi91c/.fzf/bin
+  /Users/domi91c/.rvm/gems/ruby-2.4.2@loanerr/bin:/Users/domi91c/.rvm/rubies/ruby-2.4.2/bin:/Users/domi91c/.rvm/gems/ruby-2.4.2@global/bin:/Users/domi91c/.rvm/bin:/usr/local/opt/qt@5.5/bin:/Users/domi91c/.rvm/gems/ruby-2.3.1/bin:/Users/domi91c/.rvm/gems/ruby-2.3.1@global/bin:/Users/domi91c/.rvm/rubies/ruby-2.3.1/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/domi91c/.fzf/bin
 
 Yarn version: 
   1.3.2
 
 Node version: 
-  7.1.0
+  6.11.1
 
 Platform: 
   darwin x64
@@ -5800,6 +5800,6 @@ Trace:
   ReferenceError: Unknown language key integrityNodeDoesntMatch
       at ConsoleReporter.lang (/usr/local/Cellar/yarn/1.3.2/libexec/lib/cli.js:33004:13)
       at /usr/local/Cellar/yarn/1.3.2/libexec/lib/cli.js:57471:30
-      at Generator.next (<anonymous>)
+      at next (native)
       at step (/usr/local/Cellar/yarn/1.3.2/libexec/lib/cli.js:92:30)
       at /usr/local/Cellar/yarn/1.3.2/libexec/lib/cli.js:103:13
